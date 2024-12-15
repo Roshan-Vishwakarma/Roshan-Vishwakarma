@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there! 👋
+Welcome to My GitHub Profile!
+I am a Computer Science Undergraduate passionate about software development and learning new technologies. Here’s what you’ll find in my profile:
 
-<!--
-**Roshan-Vishwakarma/Roshan-Vishwakarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+🔭 I’m currently working on projects in machine learning, web development, and computer vision.
+🌱 Actively learning and exploring cloud technologies, DevOps practices, and modern frameworks.
+🤝 Open to collaborating on open-source projects, hackathons, and innovative ideas.
+💡 Eager to build solutions that solve real-world problems and make a positive impact.
+🛠️ My Skillset
+Programming Languages: Python, Java, JavaScript, Dart, C++.
+Technologies & Frameworks: React, Flutter, Node.js, TensorFlow, Unity 3D.
+Tools: Git, VS Code, Docker, Figma.
+📈 GitHub Stats
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Connect With Me
+💼 LinkedIn
+🌟 Portfolio Website
