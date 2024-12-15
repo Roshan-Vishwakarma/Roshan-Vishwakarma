@@ -58,10 +58,10 @@ Currently diving deeper into:
 
 | 💡 **Stats** | 🚀 **Streak** |
 | ----------- | ------------ |
-| ![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=dark) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YourUserName&theme=dark) |
+| ![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roshan-Vishwakarma&show_icons=true&theme=dark) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Roshan-Vishwakarma&theme=dark) |
 
 **Most Used Languages**  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=dark)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Vishwakarma&layout=compact&theme=dark)
 
 ---
 
