@@ -54,15 +54,4 @@ Currently diving deeper into:
 
 ---
 
-## 📊 **GitHub Stats:**
-
-| 💡 **Stats** | 🚀 **Streak** |
-| ----------- | ------------ |
-| ![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roshan-Vishwakarma&show_icons=true&theme=dark) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Roshan-Vishwakarma&theme=dark) |
-
-**Most Used Languages**  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Vishwakarma&layout=compact&theme=dark)
-
----
-
 ⭐ **"Always curious, always learning."** 🚀
